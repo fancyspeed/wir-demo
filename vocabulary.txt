@@ -1,0 +1,11 @@
+10
+sky
+mountain
+city
+beauty
+tree
+flower
+crowd
+random
+animal
+river
